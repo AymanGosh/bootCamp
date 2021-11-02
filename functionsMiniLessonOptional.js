@@ -22,35 +22,4 @@ const creatStory = function () {
 creatStory();
 console.log(wordCounts);
 
-console.log({
-  in: 1,
-  the: 4,
-  beginning: 1,
-  there: 3,
-  was: 2,
-  light: 1,
-  "": 6,
-  then: 2,
-  were: 1,
-  wolves: 1,
-  finally: 1,
-  a: 2,
-  big: 1,
-  fire: 3,
-  ultimately: 1,
-  shelob: 1,
-  "wolf-master": 1,
-  put: 1,
-  out: 1,
-  with: 1,
-  her: 1,
-  feet: 1,
-  but: 1,
-  until: 1,
-  caused: 1,
-  one: 1,
-  heck: 1,
-  of: 2,
-  lot: 1,
-  damage: 1,
-});
+
